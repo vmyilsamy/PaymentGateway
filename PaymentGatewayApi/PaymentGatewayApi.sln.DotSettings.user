@@ -1,0 +1,7 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6c040bdf_002Dc7ff_002D4348_002Dae33_002D426a159b3f0e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="HackerNewsService_get_ids_for_best_stories_from_service_client" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::488F1DDA-AF77-4F72-A5F6-DFC8C6D7BB30::net6.0::PaymentGatewayApi.UnitTests.PaymentService_Process_payment_should_write_payment_response_to_repository&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::488F1DDA-AF77-4F72-A5F6-DFC8C6D7BB30::net6.0::PaymentGatewayApi.UnitTests.ModelExtensions_check_card_masking_in_acquiring_bank_payment_response_conversion_to_historical_payment_repsonse&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
